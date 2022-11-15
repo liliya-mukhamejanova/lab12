@@ -49,7 +49,7 @@ li5.style.color = "green"
 ul1.appendChild(li5)
 
 let li6 = document.createElement("li")
-li6.innerHTML = "change classes of the elements (<strong>5 points</strong>);"
+li6.innerHTML = "change classes of the elements (<strong>5 points</strong>)."
 li6.style.color = "purple"
 ul1.appendChild(li6)
 
